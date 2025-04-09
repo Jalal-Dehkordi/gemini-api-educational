@@ -34,3 +34,14 @@ Shows how to use Gemini-generated embeddings as input features for a Keras class
 - Google Gemini API key (get one from [AI Studio](https://aistudio.google.com/app/apikey))
 - Required Python packages (install via `pip install -r requirements.txt`)
 
+[![Open in my Kaggle]
+
+([https://www.kaggle.com/code/jalaldehkordi/embeddings-and-similarity-scores](https://www.kaggle.com/code/jalaldehkordi/embeddings-and-similarity-scores))
+
+([https://www.kaggle.com/code/jalaldehkordi/q-a-with-rag-geminiapi ](https://www.kaggle.com/code/jalaldehkordi/q-a-with-rag-geminiapi ))
+
+
+
+
+([https://www.kaggle.com/code/jalaldehkordi/text-classification-with-gemini-api](https://www.kaggle.com/code/jalaldehkordi/text-classification-with-gemini-api))
+]
