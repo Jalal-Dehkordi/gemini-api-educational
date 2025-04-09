@@ -1,0 +1,7 @@
+   google-genai==1.7.0
+   chromadb==0.6.3
+   pandas
+   numpy
+   scikit-learn
+   keras
+   seaborn
